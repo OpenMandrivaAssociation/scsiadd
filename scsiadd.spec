@@ -1,6 +1,6 @@
 %define	name	scsiadd
 %define	version	1.95
-%define	release	1mdk
+%define	release	%mkrel 1
 
 Summary:	Utility to add and remove SCSI devices on the fly
 Name:		%{name}
