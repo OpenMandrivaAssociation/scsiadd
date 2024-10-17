@@ -11,7 +11,7 @@ License:	GPL
 Group:		System/Configuration/Hardware
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		%{name}-1.52-mdkconf.patch.bz2
-URL:		http://llg.cubic.org/tools/
+URL:		https://llg.cubic.org/tools/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
